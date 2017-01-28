@@ -1,12 +1,12 @@
 [submodule "CommonLibs"]
 	path = CommonLibs
-	url = git@github.com:RangeNetworks/CommonLibs.git
+	url = https://github.com/stoked-security/CommonLibs.git
 	branch = 4.0
 [submodule "sqlite3"]
 	path = sqlite3
-	url = git@github.com:RangeNetworks/sqlite3.git
+	url = https://github.com/stoked-security/sqlite3.git
 	branch = 4.0
 [submodule "NodeManager"]
 	path = NodeManager
-	url = git@github.com:RangeNetworks/NodeManager.git
+	url = https://github.com/stoked-security/NodeManager.git
 	branch = 4.0
